@@ -29,7 +29,6 @@ This repository **does not** send real SMS messages. All network calls are mocke
     ```bash
    pip install -r requirements.txt
 
-## ▶️ Usage
 
 ## ▶️ Usage
 
