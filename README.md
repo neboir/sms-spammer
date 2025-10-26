@@ -1,4 +1,4 @@
-# SMS Spawner (Educational Version)
+# SMS Spammer (Educational Version)
 
 ⚠️ **Disclaimer:**  
 This project is created **for educational and research purposes only**.  
@@ -21,10 +21,10 @@ This repository **does not** send real SMS messages. All network calls are mocke
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/neboir/sms-spawner
+   git clone https://github.com/neboir/sms-spammer
 2. Go to the project directory:
    ```bash
-   cd sms-spawner
+   cd sms-spammer
 3. Install dependencies:
     ```bash
    pip install -r requirements.txt
